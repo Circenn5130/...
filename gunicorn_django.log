@@ -1,0 +1,253 @@
+[2022-10-15 01:17:01 +0000] [120] [INFO] Starting gunicorn 20.1.0
+[2022-10-15 01:17:01 +0000] [120] [INFO] Listening at: http://0.0.0.0:8001 (120)
+[2022-10-15 01:17:01 +0000] [120] [INFO] Using worker: gevent
+[2022-10-15 01:17:01 +0000] [122] [INFO] Booting worker with pid: 122
+[2022-10-15 01:17:01 +0000] [123] [INFO] Booting worker with pid: 123
+use SECRET_KEY from file
+use SECRET_KEY from file
+/usr/local/lib/python3.10/dist-packages/numpy/core/getlimits.py:500: UserWarning: The value of the smallest subnormal for <class 'numpy.float64'> type is zero.
+  setattr(self, word, getattr(machar, word).flat[0])
+/usr/local/lib/python3.10/dist-packages/numpy/core/getlimits.py:89: UserWarning: The value of the smallest subnormal for <class 'numpy.float64'> type is zero.
+  return self._float_to_str(self.smallest_subnormal)
+/usr/local/lib/python3.10/dist-packages/numpy/core/getlimits.py:500: UserWarning: The value of the smallest subnormal for <class 'numpy.float32'> type is zero.
+  setattr(self, word, getattr(machar, word).flat[0])
+/usr/local/lib/python3.10/dist-packages/numpy/core/getlimits.py:89: UserWarning: The value of the smallest subnormal for <class 'numpy.float32'> type is zero.
+  return self._float_to_str(self.smallest_subnormal)
+/usr/local/lib/python3.10/dist-packages/numpy/core/getlimits.py:500: UserWarning: The value of the smallest subnormal for <class 'numpy.float64'> type is zero.
+  setattr(self, word, getattr(machar, word).flat[0])
+/usr/local/lib/python3.10/dist-packages/numpy/core/getlimits.py:89: UserWarning: The value of the smallest subnormal for <class 'numpy.float64'> type is zero.
+  return self._float_to_str(self.smallest_subnormal)
+/usr/local/lib/python3.10/dist-packages/numpy/core/getlimits.py:500: UserWarning: The value of the smallest subnormal for <class 'numpy.float32'> type is zero.
+  setattr(self, word, getattr(machar, word).flat[0])
+/usr/local/lib/python3.10/dist-packages/numpy/core/getlimits.py:89: UserWarning: The value of the smallest subnormal for <class 'numpy.float32'> type is zero.
+  return self._float_to_str(self.smallest_subnormal)
+Unauthorized: /api/user/1/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/user/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/albums/date/list/
+Unauthorized: /api/dirtree/
+Unauthorized: /api/dirtree/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/albums/date/list/
+/usr/local/lib/python3.10/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'api.models.album_user.AlbumUser'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/albums/user/2/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/albums/user/2/
+Bad Request: /api/nextcloud/listdir/
+Bad Request: /api/nextcloud/listdir/
+Bad Request: /api/nextcloud/listdir/
+Bad Request: /api/nextcloud/listdir/
+Unauthorized: /api/exists/b310fb54b80f0d5a89d9f53e95e008421/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/scanuploadedphotos/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/dirtree/
+Unauthorized: /api/albums/date/list/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/dirtree/
+Unauthorized: /api/photos/recentlyadded/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/photos/recentlyadded/
+Unauthorized: /api/dirtree/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/dirtree/
+Unauthorized: /api/photos/recentlyadded/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/dirtree/
+Unauthorized: /api/photos/recentlyadded/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/dirtree/
+Unauthorized: /api/albums/date/list/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/dirtree/
+Unauthorized: /api/photos/recentlyadded/
+Unauthorized: /api/predefinedrules/
+Unauthorized: /api/user/1/
+Bad Request: /api/nextcloud/listdir/
+Bad Request: /api/nextcloud/listdir/
+Bad Request: /api/nextcloud/listdir/
+Bad Request: /api/nextcloud/listdir/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/dirtree/
+Unauthorized: /api/photos/recentlyadded/
+Unauthorized: /api/dirtree/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/albums/date/list/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/albums/date/list/
+Unauthorized: /api/dirtree/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/dirtree/
+Unauthorized: /api/albums/date/list/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/dirtree/
+Unauthorized: /api/albums/date/list/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/dirtree/
+Unauthorized: /api/photos/recentlyadded/
+Bad Request: /api/nextcloud/listdir/
+Bad Request: /api/nextcloud/listdir/
+Bad Request: /api/nextcloud/listdir/
+Bad Request: /api/nextcloud/listdir/
+Bad Request: /api/nextcloud/listdir/
+Bad Request: /api/nextcloud/listdir/
+Unauthorized: /api/rqavailable/
+Bad Request: /api/nextcloud/listdir/
+Bad Request: /api/nextcloud/listdir/
+Bad Request: /api/nextcloud/listdir/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/dirtree/
+Unauthorized: /api/albums/user/3/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/albums/user/list/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/dirtree/
+Unauthorized: /api/albums/date/list/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/albums/date/list/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/dirtree/
+Bad Request: /api/nextcloud/listdir/
+Bad Request: /api/nextcloud/listdir/
+Bad Request: /api/nextcloud/listdir/
+Bad Request: /api/nextcloud/listdir/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/stats/
+Unauthorized: /api/stats/
+Unauthorized: /api/nextcloud/listdir/
+Unauthorized: /api/nextcloud/listdir/
+Unauthorized: /api/jobs/
+Bad Request: /api/nextcloud/listdir/
+Bad Request: /api/nextcloud/listdir/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/dirtree/
+Unauthorized: /api/albums/date/list/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/dirtree/
+Unauthorized: /api/albums/date/list/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/albums/user/list/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/dirtree/
+Unauthorized: /api/albums/date/list/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/albums/date/list/
+Unauthorized: /api/dirtree/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/dirtree/
+Unauthorized: /api/photos/recentlyadded/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/albums/user/2/
+Unauthorized: /api/searchtermexamples/
+/usr/local/lib/python3.10/dist-packages/rest_framework/pagination.py:200: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'api.models.album_user.AlbumUser'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+Unauthorized: /api/albums/date/list/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/dirtree/
+Unauthorized: /api/albums/user/shared/tome/
+Unauthorized: /api/photos/shared/tome/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/albums/user/3/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/photos/shared/tome/
+Unauthorized: /api/albums/user/shared/tome/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/photos/shared/fromme/
+Unauthorized: /api/albums/user/shared/fromme/
+Unauthorized: /api/rqavailable/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/dirtree/
+Unauthorized: /api/albums/date/list/
+Unauthorized: /api/searchtermexamples/
+Unauthorized: /api/albums/date/list/
+Unauthorized: /api/searchtermexamples/
+Internal Server Error: /api/albums/date/list/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/django/db/models/fields/__init__.py", line 1774, in get_prep_value
+    return int(value)
+  File "/usr/local/lib/python3.10/dist-packages/django/contrib/auth/models.py", line 414, in __int__
+    raise TypeError('Cannot cast AnonymousUser to int. Are you trying to use it in place of User?')
+TypeError: Cannot cast AnonymousUser to int. Are you trying to use it in place of User?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/usr/local/lib/python3.10/dist-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/usr/local/lib/python3.10/dist-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/usr/local/lib/python3.10/dist-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/code/api/views/albums.py", line 516, in list
+    serializer = IncompleteAlbumDateSerializer(self.get_queryset(), many=True)
+  File "/code/api/views/albums.py", line 497, in get_queryset
+    qs.annotate(
+  File "/usr/local/lib/python3.10/dist-packages/django/db/models/query.py", line 1116, in annotate
+    clone.query.add_annotation(annotation, alias, is_summary=False)
+  File "/usr/local/lib/python3.10/dist-packages/django/db/models/sql/query.py", line 1020, in add_annotation
+    annotation = annotation.resolve_expression(self, allow_joins=True, reuse=None,
+  File "/usr/local/lib/python3.10/dist-packages/django/db/models/aggregates.py", line 48, in resolve_expression
+    c.filter = c.filter and c.filter.resolve_expression(query, allow_joins, reuse, summarize)
+  File "/usr/local/lib/python3.10/dist-packages/django/db/models/query_utils.py", line 103, in resolve_expression
+    clause, joins = query._add_q(
+  File "/usr/local/lib/python3.10/dist-packages/django/db/models/sql/query.py", line 1379, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "/usr/local/lib/python3.10/dist-packages/django/db/models/sql/query.py", line 1321, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "/usr/local/lib/python3.10/dist-packages/django/db/models/sql/query.py", line 1167, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "/usr/local/lib/python3.10/dist-packages/django/db/models/lookups.py", line 24, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "/usr/local/lib/python3.10/dist-packages/django/db/models/fields/related_lookups.py", line 117, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+  File "/usr/local/lib/python3.10/dist-packages/django/db/models/fields/__init__.py", line 1776, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <django.contrib.auth.models.AnonymousUser object at 0x7f4959d3fe20>.
